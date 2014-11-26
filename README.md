@@ -18,7 +18,7 @@ Basic usage
 Just clone the project and delete its version history:
 
 ``` bash
-git clone https://github.com/ubuntudesign/static-django-bootstrap.git example-project
+git clone https://github.com/ubuntudesign/static-django-website-blueprint.git example-project
 cd example-project
 rm -rf .git   # Remove the existing git information
 make setup    # Install dependencies etc. for development
